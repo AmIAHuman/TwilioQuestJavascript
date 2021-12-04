@@ -1,0 +1,1 @@
+function construct(_name) {return {name: _name, material: "human", assemble: true, duration: 1000};}

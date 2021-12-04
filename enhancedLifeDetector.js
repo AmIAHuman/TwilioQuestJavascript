@@ -1,0 +1,1 @@
+console.log((Number(process.argv[2]) == 0) ? "alive" : ((Number(process.argv[2]) == 1) ? "flowering" : ((Number(process.argv[2]) == 2) ? "shedding" : "other")));

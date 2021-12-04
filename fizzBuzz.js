@@ -1,0 +1,1 @@
+console.log((Number(process.argv[2]) % 3 == 0 && Number(process.argv[2]) % 5 == 0) ? "JavaScript" : ((Number(process.argv[2]) % 3 == 0) ? "Java" : ((Number(process.argv[2]) % 5 == 0) ? "Script" : Number(process.argv[2]))));

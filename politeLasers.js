@@ -1,0 +1,1 @@
+function getLaserSetting(magicWord) {return (magicWord == "please") ? "OFF" : "ON";}
